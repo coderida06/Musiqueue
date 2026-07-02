@@ -1,7 +1,7 @@
 # Musiqueue
 A lightweight desktop YouTube queue player built with Python.
 
-Instead of autoplay deciding what plays next, MusiQueue lets you build your own queue. Search for songs, add them to the list, and they'll play one after another in the exact order you added them.
+Instead of autoplay deciding what plays next, Musiqueue lets you build your own queue. Search for songs, add them to the list, and they'll play one after another in the exact order you added them.
 
 Features
 🎵 Search songs directly from YouTube
